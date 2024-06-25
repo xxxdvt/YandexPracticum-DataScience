@@ -70,13 +70,6 @@ class Phonebook:
 
 
 def run():
-    # print('Выберите действие:\n'
-    #       '1. Просмотреть контакты\n'
-    #       '2. Добавить контакт\n'
-    #       '3. Редактировать контакт\n'
-    #       '4. Удалить контакт\n'
-    #       '5. Выход')
-    # inp = int(input('>> '))
     inp = -1
     phonebook = Phonebook('data.txt')
     while inp != 5:
