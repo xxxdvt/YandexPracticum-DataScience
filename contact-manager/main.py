@@ -112,5 +112,6 @@ def main():
     else:
         print('Спасибо за пользование!')
 
+
 if __name__ == '__main__':
     main()
