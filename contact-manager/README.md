@@ -3,20 +3,25 @@
 Консольное приложение позволяет просматривать, добавлять, удалять и редактировать контакты. Контакты хранятся в файле `data.txt`
 
 ### Установка:
-1. ```bash
+1. f
+```bash
 git clone git@github.com:xxxdvt/Yandex-Practicum.-DataScience.-AI.git
 ```
-2. ```bash
+2. f
+```bash
 cd contact-manager
 ```
-3. ```bash 
+3. f
+```bash 
 python -m venv venv
 source venv/Scripts/activate
 ```
-4. ```bash
+4. f
+```bash
 pip install -r requirements.txt
 ```
-5. ```bash
+5. f
+```bash
 python main.py
 ```
 
