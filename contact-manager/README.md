@@ -5,7 +5,7 @@
 #### Установка
 1. Скопируйте репозиторий
 ```bash
-git clone git@github.com:xxxdvt/Yandex-Practicum.-DataScience.-AI.git
+git clone git@github.com:xxxdvt/YandexPracticum-DataScience.git
 ```
 2. Перейдите в каталог проекта
 ```bash
@@ -34,4 +34,4 @@ python main.py
 &emsp;5 - Выход из приложения
 
 #### Авторы:
-Давит Мушкамбарян | xxxdvt
+Davit Mushkambaryan | xxxdvt
