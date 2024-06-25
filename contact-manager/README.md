@@ -4,16 +4,21 @@
 
 ### Установка:
 1. ```BASH
-git clone git@github.com:xxxdvt/Yandex-Practicum.-DataScience.-AI.git```
+git clone git@github.com:xxxdvt/Yandex-Practicum.-DataScience.-AI.git
+```
 2. ```BASH
-cd contact-manager```
-3. ```BAHS 
+cd contact-manager
+```
+3. ```BASH 
 python -m venv venv
-source venv/Scripts/activate```
+source venv/Scripts/activate
+```
 4. ```BASH
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 5. ```BASH
-python main.py```
+python main.py
+```
 
 ### Использование.
 Реализовано вводом номера нужного действия:
