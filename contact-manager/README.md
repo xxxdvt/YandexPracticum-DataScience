@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 5. Запустите проект
 ```bash
-python main.py
+python contact-manager.py
 ```
 
 #### Использование

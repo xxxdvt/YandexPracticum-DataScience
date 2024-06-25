@@ -69,7 +69,7 @@ class Phonebook:
                     file.write(str(int(key) - 1) + ' ' + value[0] + ' ' + value[1])
 
 
-def main():
+def run():
     # print('Выберите действие:\n'
     #       '1. Просмотреть контакты\n'
     #       '2. Добавить контакт\n'
@@ -113,5 +113,4 @@ def main():
         print('Спасибо за пользование!')
 
 
-if __name__ == '__main__':
-    main()
+run()
