@@ -5,18 +5,18 @@
 #### Установка
 1. Скопируйте репозиторий
 ```bash
-git clone git@github.com:xxxdvt/Yandex-Practicum.-DataScience.-AI.git
+git clone git@github.com:xxxdvt/YandexPracticum-DataScience.git
 ```
 2. Перейдите в каталог проекта
 ```bash
 cd contact-manager
 ```
-3. Создайте и настройте виртуальное окружение 
-```bash 
+3. Создайте и настройте виртуальное окружение
+```bash
 python -m venv venv
 source venv/Scripts/activate
 ```
-4. Примените зависимости
+5. Примените зависимости
 ```bash
 pip install -r requirements.txt
 ```
@@ -34,4 +34,4 @@ python main.py
 &emsp;5 - Выход из приложения
 
 #### Авторы:
-Давит Мушкамбарян | xxxdvt
+Davit Mushkambaryan | xxxdvt
