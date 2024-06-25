@@ -11,11 +11,16 @@ git clone git@github.com:xxxdvt/YandexPracticum-DataScience.git
 ```bash
 cd contact-manager
 ```
-3. Примените зависимости
+3. Создайте и настройте виртуальное окружение
+```bash
+python -m venv venv
+source venv/Scripts/activate
+```
+5. Примените зависимости
 ```bash
 pip install -r requirements.txt
 ```
-4. Запустите проект
+5. Запустите проект
 ```bash
 python main.py
 ```
