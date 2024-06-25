@@ -1,7 +1,7 @@
 # Проект: Консольный менеджер контактов
 ## Описание проекта:
 Консольное приложение позволяет просматривать, добавлять, удалять и редактировать контакты. Контакты хранятся в файле `data.txt`
-<hr>
+
 ### Установка:
 1. ```BASH
 git clone git@github.com:xxxdvt/Yandex-Practicum.-DataScience.-AI.git```
@@ -14,7 +14,7 @@ source venv/Scripts/activate```
 pip install -r requirements.txt```
 5. ```BASH
 python main.py```
-<hr>
+
 ### Использование.
 Реализовано вводом номера нужного действия:
   1 - Просмотр контактов
